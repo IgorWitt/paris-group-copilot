@@ -3,6 +3,7 @@
 Copiloto de venture studio para discovery e execução de MVPs com IA.
 
 - [Enquadramento do problema](docs/enquadramento.md)
+- [Arquitetura da stack](docs/arquitetura.md) — Next.js + FastAPI + PostgreSQL, com `docker compose up` (API e contrato em `http://localhost:8000/docs`)
 
 ---
 
